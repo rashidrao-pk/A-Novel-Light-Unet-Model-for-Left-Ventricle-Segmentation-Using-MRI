@@ -2,7 +2,11 @@
 This repository showcases a collaborative project between a PhD student from Pakistan and i played the role of a co-supervisor aimed at enhancing the Unet model for improved computational efficiency and performance. By simplifying the model's complexity and optimizing its architecture, we developed a Light-Unet model that outperformed traditional models. Additionally, a summary of the paper "<a href='https://www.mdpi.com/2227-7390/11/14/3245'>A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI</a>" is included, highlighting the innovative approach to left ventricle segmentation with MRI images.
 you can find Paper PDF on <a href='https://www.mdpi.com/2227-7390/11/14/3245'> MDPI website </a> and https://doi.org/10.3390/math11143245
 
+
+<img src='figures/Main Model New.jpg'> 
+
 ### Authors: 
+
 <!-- 
 <ol>
 <li>
@@ -54,6 +58,8 @@ Seifedine Kadry <sup>4,5,6,7,*</sup>
 | *6*        |   Department of Electrical and Computer Engineering, Lebanese American University, Byblos 13-5053, Lebanon    |
 | *7*        |   MEU Research Unit, Middle East University, Amman 11831, Jordan    |
 
+### Netwrok Composition
+<img src='figures/Network Composition.jpg'>
 
 ### Contributions:
 An image normalization method is performed prior to processing. The efficiencies of the proposed algorithm are strongly impacted by the enhancement of image contrast. Improving an image’s contrast is surely a prerequisite for image processing.
